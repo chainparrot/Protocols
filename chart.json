@@ -6,5 +6,33 @@
   {
     "date": "1541289600",
     "totalLiquidityUSD": 41292.993048786346
+  },
+  {
+    "date": "1541376000",
+    "totalLiquidityUSD": 41550.309964509484
+  },
+  {
+    "date": "1541462400",
+    "totalLiquidityUSD": 43233.56007436587
+  },
+  {
+    "date": "1541548800",
+    "totalLiquidityUSD": 153862.56649807122
+  },
+  {
+    "date": "1541635200",
+    "totalLiquidityUSD": 180275.4550184856
+  },
+  {
+    "date": "1541721600",
+    "totalLiquidityUSD": 175688.1988364224
+  },
+  {
+    "date": "1541808000",
+    "totalLiquidityUSD": 172419.60680682247
+  },
+  {
+    "date": "1541894400",
+    "totalLiquidityUSD": 187973.52715801375
   }
  ]
